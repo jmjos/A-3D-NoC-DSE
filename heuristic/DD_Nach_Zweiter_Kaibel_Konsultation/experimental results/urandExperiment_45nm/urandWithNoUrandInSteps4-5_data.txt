@@ -1,0 +1,26 @@
+----------------
+Timing:
+----------------
+	 Comp. Layer Assignement     0.39 sec.
+	 Floor planning              210.95 sec.
+	 number vlinks               0.13 sec.
+	 place routers               73.59 sec.
+	 legalize                    0.16 sec.
+                               ----------
+	 whole time                  1729.75 sec.
+Done.
+size of layers:
+   in layer 1: 391803.23
+   in layer 2: 322287.61
+   in layer 3: 447599.75
+average (hop distance x data load):  39.74
+summed (hop distance x data load):  3020.39
+maximum link load:  318.88
+Longest RD-length 78.37
+Area of all tiles:  1161690.60
+Area of largest layer times ell:  1342799.25
+Area of largest square layer times ell:  1342799.25
+Used Area:  994178.20
+White Space (inside all tiles):  167512.39
+White Space (compared to largest layer area):  348621.05
+White Space (compared to largest square layer area):  348621.05

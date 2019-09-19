@@ -1,0 +1,22 @@
+----------------
+Timing:
+----------------
+	 Comp. Layer Assignement     0.46 sec.
+	 Floor planning              95.78 sec.
+	 number vlinks               0.13 sec.
+	 place routers               230.69 sec.
+	 legalize                    0.58 sec.
+                               ----------
+	 whole time                  327.64 sec.
+Done.
+size of layers:
+   in layer 1: 12.00
+   in layer 2: 12.00
+   in layer 3: 12.00
+hop distance:  2631.75
+Warning: Stretch-to-fill scaling not supported;
+use DASPECT or PBASPECT before calling ARROW3. 
+> In arrow3 (line 398)
+  In plotResultsShowApplication (line 139)
+  In main (line 335) 
+>> save('Ergebnisse/largeVSOCurand/workspace')

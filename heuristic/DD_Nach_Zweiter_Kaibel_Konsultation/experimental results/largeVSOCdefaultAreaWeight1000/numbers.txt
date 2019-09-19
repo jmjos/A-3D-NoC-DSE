@@ -1,0 +1,16 @@
+----------------
+Timing:
+----------------
+	 Comp. Layer Assignement     0.39 sec.
+	 Floor planning              41.52 sec.
+	 number vlinks               0.13 sec.
+	 place routers               17.28 sec.
+	 legalize                    0.78 sec.
+                               ----------
+	 whole time                  60.09 sec.
+Done.
+size of layers:
+   in layer 1: 41.45
+   in layer 2: 43.70
+   in layer 3: 23.03
+hop distance:  43.73
